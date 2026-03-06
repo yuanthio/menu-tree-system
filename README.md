@@ -69,7 +69,7 @@ menu-tree-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/yuanthio/menu-tree-system>
 cd menu-tree-system
 ```
 
